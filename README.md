@@ -31,7 +31,3 @@ If the extension is already installed:
 The extension requires the following Chrome permissions:
 
 * tabGroups — Detects group state changes and expands or collapses groups.
-
-### License
-
-No license has been specified yet.
