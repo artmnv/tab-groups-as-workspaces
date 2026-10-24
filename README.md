@@ -4,9 +4,9 @@ A Chrome extension that simplifies tab group management by automatically collaps
 
 ### Features
 
-* Automatic group collapsing: When a group is expanded, all other groups in the same window are automatically collapsed.
-* Smart tab grouping: Newly opened tabs are automatically added to the currently expanded group.
-* Ungrouped tabs when all groups are collapsed: If all groups are collapsed, newly opened tabs remain outside any group.
+* When a group is expanded, all other groups in the same window are automatically collapsed.
+* Newly opened tabs are automatically added to the currently expanded group.
+* If all groups are collapsed, newly opened tabs remain outside any group.
 
 ### Installation
 
